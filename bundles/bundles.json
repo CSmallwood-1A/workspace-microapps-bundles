@@ -11,7 +11,7 @@
     "microapps" : [ {
       "title" : "Assign ticket"
     } ],
-    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/blob/master/bundles/archives/citrix/citrix_servicenow.zip",
+    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/citrix/citrix_servicenow.zip",
     "md5Hex" : "1244cd8cbd530131b1768b0e51e892f2"
   } ]
 }
