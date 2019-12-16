@@ -1,17 +1,40 @@
 {
   "bundles" : [ {
-    "id" : "servicenow",
-    "vendor" : "citrix",
-    "title" : "ServiceNow",
-    "description" : "ServiceNow lorem ipsum dolor sit amet.",
-    "version" : "0.0.1",
-    "maServerVersion" : "0.0.1",
-    "categories" : [ "INTERNAL_DEVELOPMENT" ],
-    "exportedTimestamp" : 1574674488,
-    "microapps" : [ {
-      "title" : "Assign ticket"
+    "type" : "DIP",
+    "vendor" : "Citrix",
+    "id" : "com.sapho.services.salesforce.SalesforceService",
+    "version" : "2.5.0",
+    "title" : "Salesforce",
+    "description" : "Salesforce lets you build a mobile app connected to your Salesforce instance.",
+    "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/Salesforce.43b28006ce57d083904eaa95297a166d.svg",
+    "masVersion" : "0.8.0",
+    "categories" : [ "INTERNAL_DEVELOPMENT", "WEB_SERVICES" ],
+    "created" : "2019-18-16T00:00:00",
+    "supportsOAuthForActions" : true,
+    "i18nLanguages" : [ "en" ],
+    "apps" : [ {
+      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
+      "title" : "Approvals",
+      "action" : false
+    }, {
+      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
+      "title" : "Create Lead",
+      "action" : true
     } ],
-    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/citrix/citrix_servicenow.zip",
-    "md5Hex" : "1244cd8cbd530131b1768b0e51e892f2"
+    "vaResolvers" : [ {
+      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f"
+    } ],
+    "metadata" : [ {
+      "tag" : "privacyUrl",
+      "value" : ""
+    }, {
+      "tag" : "temsOfUseUrl",
+      "value" : ""
+    }, {
+      "tag" : "helpUrl",
+      "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
+    } ],
+    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/citrix/citrix_servicenow_0.0.1.zip",
+    "md5Checksum" : "aa80b6561c822ed83cadab4aba755165"
   } ]
 }
