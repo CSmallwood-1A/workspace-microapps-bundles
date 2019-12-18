@@ -9,7 +9,7 @@
     "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/Salesforce.43b28006ce57d083904eaa95297a166d.svg",
     "masVersion" : "0.8.0",
     "categories" : [ "INTERNAL_DEVELOPMENT", "WEB_SERVICES" ],
-    "created" : "2019-18-16T00:00:00",
+    "created" : "2019-12-16T00:00:00",
     "supportsOAuthForActions" : true,
     "i18nLanguages" : [ "en", "de", "es", "fr", "ja", "nl", "zh-CN" ],
     "apps" : [ {
@@ -35,7 +35,7 @@
       "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
     } ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_com.sapho.services.salesforce.SalesforceService_2.5.0.zip",
-    "md5Checksum" : "72c51ffb63b7f15cfefba31d5294ed6b"
+    "md5Checksum" : "23e25a411825ebcd481b0708b0db9df9"
   }, {
     "type" : "HTTP",
     "vendor" : "Citrix",
@@ -45,7 +45,7 @@
     "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/Salesforce.43b28006ce57d083904eaa95297a166d.svg",
     "masVersion" : "0.8.0",
     "categories" : [ "INTERNAL_DEVELOPMENT", "WEB_SERVICES" ],
-    "created" : "2019-18-16T00:00:00",
+    "created" : "2019-12-16T00:00:00",
     "supportsOAuthForActions" : false,
     "i18nLanguages" : [ "en" ],
     "apps" : [ {
@@ -67,6 +67,6 @@
       "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
     } ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_7c1f851b-41bb-4fc6-8356-57fc7281744f.zip",
-    "md5Checksum" : "1b84497e87d3a5cd92e2eaf9338c80a1"
+    "md5Checksum" : "c16ba5e354d3f519283b8341b48de327"
   } ]
 }
