@@ -40,14 +40,14 @@
     "type" : "HTTP",
     "vendor" : "Citrix",
     "id" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
-    "title" : "Salesforce Approval Custom",
+    "title" : "Salesforce Approval",
     "description" : "Salesforce lets you build a mobile app connected to your Salesforce instance.",
     "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/Salesforce.43b28006ce57d083904eaa95297a166d.svg",
     "masVersion" : "0.8.0",
     "categories" : [ "INTERNAL_DEVELOPMENT", "WEB_SERVICES" ],
     "created" : "2019-12-16T00:00:00",
     "supportsOAuthForActions" : false,
-    "i18nLanguages" : [ "en" ],
+    "i18nLanguages" : [ "en", "de" ],
     "apps" : [ {
       "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
       "title" : "Approvals",
@@ -67,6 +67,6 @@
       "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
     } ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_7c1f851b-41bb-4fc6-8356-57fc7281744f.zip",
-    "md5Checksum" : "c16ba5e354d3f519283b8341b48de327"
+    "md5Checksum" : "68e23c49d80bf1c2b50743f509010bc3"
   } ]
 }
