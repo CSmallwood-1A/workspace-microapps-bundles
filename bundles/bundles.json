@@ -15,11 +15,13 @@
     "apps" : [ {
       "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
       "title" : "Approvals",
-      "action" : false
+      "action" : false,
+      "numberOfEvents" : 0
     }, {
       "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
       "title" : "Create Lead",
-      "action" : true
+      "action" : true,
+      "numberOfEvents" : 0
     } ],
     "vaResolvers" : [ {
       "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f"
@@ -35,7 +37,7 @@
       "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
     } ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_com.sapho.services.salesforce.SalesforceService_2.5.0.zip",
-    "md5Checksum" : "23e25a411825ebcd481b0708b0db9df9"
+    "md5Checksum" : "d58518d3b6f2582921a0600bda6bc873"
   }, {
     "type" : "HTTP",
     "vendor" : "Citrix",
@@ -51,7 +53,8 @@
     "apps" : [ {
       "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
       "title" : "Approvals",
-      "action" : false
+      "action" : false,
+      "numberOfEvents" : 0
     } ],
     "vaResolvers" : [ {
       "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f"
@@ -67,6 +70,6 @@
       "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
     } ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_7c1f851b-41bb-4fc6-8356-57fc7281744f.zip",
-    "md5Checksum" : "c16ba5e354d3f519283b8341b48de327"
+    "md5Checksum" : "d8a6fd6aa97960b4f073c7a9adfd31aa"
   } ]
 }
