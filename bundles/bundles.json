@@ -24,7 +24,8 @@
       "numberOfEvents" : 0
     } ],
     "vaResolvers" : [ {
-      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f"
+      "name" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
+      "intentName" : "intent1234"
     } ],
     "tags" : [ {
       "tag" : "privacyUrl",
@@ -37,7 +38,7 @@
       "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
     } ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_com.sapho.services.salesforce.SalesforceService_2.5.0.zip",
-    "md5Checksum" : "d58518d3b6f2582921a0600bda6bc873"
+    "md5Checksum" : "04359c04e1057cce6da970c2c2f9e2da"
   }, {
     "type" : "HTTP",
     "vendor" : "Citrix",
@@ -57,7 +58,8 @@
       "numberOfEvents" : 0
     } ],
     "vaResolvers" : [ {
-      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f"
+      "name" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
+      "intentName" : "intent12345"
     } ],
     "tags" : [ {
       "tag" : "privacyUrl",
@@ -70,6 +72,6 @@
       "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
     } ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_7c1f851b-41bb-4fc6-8356-57fc7281744f.zip",
-    "md5Checksum" : "d8a6fd6aa97960b4f073c7a9adfd31aa"
+    "md5Checksum" : "7eb94a768bff95e5ccf5764d39468991"
   } ]
 }
