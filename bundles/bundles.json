@@ -73,6 +73,28 @@
   }, {
     "type" : "HTTP",
     "vendor" : "Citrix",
+    "id" : "3c414413-b4f6-450b-a69d-f9745a029ad8",
+    "title" : "HTTP integration",
+    "description" : "",
+    "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.b662c61cecf295906ef0af18be93b25a.svg",
+    "masVersion" : "1.4.3-SNAPSHOT",
+    "categories" : [ ],
+    "created" : "2020-02-14T09:51:02",
+    "supportsOAuthForActions" : false,
+    "i18nLanguages" : [ "en" ],
+    "apps" : [ {
+      "uuid" : "fe2697ca-4639-47cf-be2a-df888908e79e",
+      "title" : "Blank Microapp",
+      "action" : true,
+      "numberOfEvents" : 0
+    } ],
+    "vaResolvers" : [ ],
+    "tags" : [ ],
+    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_3c414413-b4f6-450b-a69d-f9745a029ad8.zip",
+    "md5Checksum" : "79d7c1cfb1dc6b815f824ead21643056"
+  }, {
+    "type" : "HTTP",
+    "vendor" : "Citrix",
     "id" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
     "title" : "Salesforce Approval Custom",
     "description" : "Salesforce lets you build a mobile app connected to your Salesforce instance.",
