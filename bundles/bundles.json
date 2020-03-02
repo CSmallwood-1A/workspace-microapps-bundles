@@ -3,37 +3,6 @@
     "type" : "DIP",
     "vendor" : "Citrix",
     "id" : "com.sapho.services.jira.JiraService",
-    "version" : "0.2.3",
-    "title" : "JIRA integration",
-    "description" : "Lets you build a mobile app connected to your JIRA instance.",
-    "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/JIRA.35cdd2008e8e83479745e5635da3d7f1.svg",
-    "masVersion" : "1.2.18-SNAPSHOT",
-    "categories" : [ "WEB_SERVICES" ],
-    "created" : "2020-01-21T11:40:09",
-    "supportsOAuthForActions" : true,
-    "i18nLanguages" : [ "de", "en", "es", "fr", "ja", "nl", "pt-BR", "zh-CN" ],
-    "apps" : [ {
-      "uuid" : "46a8c3f5-5d7f-4c80-9b05-bb77f48cfae5",
-      "title" : "Tickets",
-      "action" : true,
-      "numberOfEvents" : 9
-    }, {
-      "uuid" : "9a5518f0-ac8d-47f8-bd57-56bb7bce1775",
-      "title" : "Create Ticket",
-      "action" : true,
-      "numberOfEvents" : 0
-    } ],
-    "vaResolvers" : [ ],
-    "tags" : [ {
-      "tag" : "helpUrl",
-      "value" : "https://docs.citrix.com/en-us/citrix-microapps/set-up-template-integrations/integrate-jira.html"
-    } ],
-    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_com.sapho.services.jira.JiraService_0.2.3.zip",
-    "md5Checksum" : "4bdf290e4f214cabe56382a4c12705da"
-  }, {
-    "type" : "DIP",
-    "vendor" : "Citrix",
-    "id" : "com.sapho.services.jira.JiraService",
     "version" : "0.2.4",
     "title" : "JIRA integration",
     "description" : "Lets you build a mobile app connected to your JIRA instance.",
@@ -68,46 +37,6 @@
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_com.sapho.services.jira.JiraService_0.2.4.zip",
     "md5Checksum" : "ca1eaf16e36e258c8c7c8bc29d57e388"
   }, {
-    "type" : "DIP",
-    "vendor" : "Citrix",
-    "id" : "com.sapho.services.salesforce.SalesforceService",
-    "version" : "2.5.0",
-    "title" : "Salesforce",
-    "description" : "Salesforce lets you build a mobile app connected to your Salesforce instance.",
-    "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/Salesforce.43b28006ce57d083904eaa95297a166d.svg",
-    "masVersion" : "0.8.0",
-    "categories" : [ "INTERNAL_DEVELOPMENT", "WEB_SERVICES" ],
-    "created" : "2019-12-16T00:00:00",
-    "supportsOAuthForActions" : true,
-    "i18nLanguages" : [ "en", "de", "es", "fr", "ja", "nl", "zh-CN" ],
-    "apps" : [ {
-      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
-      "title" : "Approvals",
-      "action" : false,
-      "numberOfEvents" : 0
-    }, {
-      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
-      "title" : "Create Lead",
-      "action" : true,
-      "numberOfEvents" : 0
-    } ],
-    "vaResolvers" : [ {
-      "name" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
-      "intentName" : "intent1234"
-    } ],
-    "tags" : [ {
-      "tag" : "privacyUrl",
-      "value" : ""
-    }, {
-      "tag" : "termsOfUseUrl",
-      "value" : ""
-    }, {
-      "tag" : "helpUrl",
-      "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
-    } ],
-    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_com.sapho.services.salesforce.SalesforceService_2.5.0.zip",
-    "md5Checksum" : "04359c04e1057cce6da970c2c2f9e2da"
-  }, {
     "type" : "HTTP",
     "vendor" : "Citrix",
     "id" : "3c414413-b4f6-450b-a69d-f9745a029ad8",
@@ -129,39 +58,5 @@
     "tags" : [ ],
     "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_3c414413-b4f6-450b-a69d-f9745a029ad8.zip",
     "md5Checksum" : "79d7c1cfb1dc6b815f824ead21643056"
-  }, {
-    "type" : "HTTP",
-    "vendor" : "Citrix",
-    "id" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
-    "title" : "Salesforce Approval Custom",
-    "description" : "Salesforce lets you build a mobile app connected to your Salesforce instance.",
-    "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/Salesforce.43b28006ce57d083904eaa95297a166d.svg",
-    "masVersion" : "0.8.0",
-    "categories" : [ "INTERNAL_DEVELOPMENT", "WEB_SERVICES" ],
-    "created" : "2019-12-16T00:00:00",
-    "supportsOAuthForActions" : false,
-    "i18nLanguages" : [ "en" ],
-    "apps" : [ {
-      "uuid" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
-      "title" : "Approvals",
-      "action" : false,
-      "numberOfEvents" : 0
-    } ],
-    "vaResolvers" : [ {
-      "name" : "7c1f851b-41bb-4fc6-8356-57fc7281744f",
-      "intentName" : "intent12345"
-    } ],
-    "tags" : [ {
-      "tag" : "privacyUrl",
-      "value" : ""
-    }, {
-      "tag" : "termsOfUseUrl",
-      "value" : ""
-    }, {
-      "tag" : "helpUrl",
-      "value" : "https://docs.citrix.com/en-us/preview/citrix-workspace-microapps-developer-guide.html"
-    } ],
-    "downloadUrl" : "https://github.com/michaltc/workspace-microapps-bundles/raw/master/bundles/archives/Citrix/Citrix_7c1f851b-41bb-4fc6-8356-57fc7281744f.zip",
-    "md5Checksum" : "7eb94a768bff95e5ccf5764d39468991"
   } ]
 }
